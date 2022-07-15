@@ -8,12 +8,8 @@ Children:
 - Name: Variable2
   Type: BaseDataVariableType
   DataType: Int32
-  Value: 0
+  Value: 10
 - Name: Variable3
   Type: BaseDataVariableType
   DataType: Int32
-  Value: 0
-- Name: Variable4
-  Type: BaseDataVariableType
-  DataType: Int32
-  Value: 0
+  Value: 50
